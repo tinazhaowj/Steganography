@@ -1,0 +1,33 @@
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\_12_Lesson_10_Image_Processing.Form1.resources
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\_12_Lesson_10_Image_Processing.Properties.Resources.resources
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\bin\Debug\12 Lesson 10 Image Processing.exe
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\bin\Debug\12 Lesson 10 Image Processing.pdb
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.exe
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.pdb
+D:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.exe
+D:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.pdb
+D:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\bin\Debug\12 Lesson 10 Image Processing.exe
+D:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\bin\Debug\12 Lesson 10 Image Processing.pdb
+D:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\_12_Lesson_10_Image_Processing.Form1.resources
+D:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\_12_Lesson_10_Image_Processing.Properties.Resources.resources
+D:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.csproj.GenerateResource.Cache
+D:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Desktop\USB\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.exe
+C:\Users\Tina\Desktop\USB\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.pdb
+C:\Users\Tina\Desktop\USB\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\bin\Debug\12 Lesson 10 Image Processing.exe
+C:\Users\Tina\Desktop\USB\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\bin\Debug\12 Lesson 10 Image Processing.pdb
+C:\Users\Tina\Desktop\USB\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Desktop\USB\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\_12_Lesson_10_Image_Processing.Form1.resources
+C:\Users\Tina\Desktop\USB\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\_12_Lesson_10_Image_Processing.Properties.Resources.resources
+C:\Users\Tina\Desktop\USB\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.csproj.GenerateResource.Cache
+C:\Users\Tina\Documents\High School\Grade 11\semester 2\Computer science\grade 11\projects\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.exe
+C:\Users\Tina\Documents\High School\Grade 11\semester 2\Computer science\grade 11\projects\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.pdb
+C:\Users\Tina\Documents\High School\Grade 11\semester 2\Computer science\grade 11\projects\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\bin\Debug\12 Lesson 10 Image Processing.exe
+C:\Users\Tina\Documents\High School\Grade 11\semester 2\Computer science\grade 11\projects\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\bin\Debug\12 Lesson 10 Image Processing.pdb
+C:\Users\Tina\Documents\High School\Grade 11\semester 2\Computer science\grade 11\projects\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Documents\High School\Grade 11\semester 2\Computer science\grade 11\projects\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\_12_Lesson_10_Image_Processing.Form1.resources
+C:\Users\Tina\Documents\High School\Grade 11\semester 2\Computer science\grade 11\projects\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\_12_Lesson_10_Image_Processing.Properties.Resources.resources
+C:\Users\Tina\Documents\High School\Grade 11\semester 2\Computer science\grade 11\projects\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Debug\12 Lesson 10 Image Processing.csproj.GenerateResource.Cache

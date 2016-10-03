@@ -1,0 +1,9 @@
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\bin\Release\12 Lesson 10 Image Processing.exe
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\bin\Release\12 Lesson 10 Image Processing.pdb
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Release\ResolveAssemblyReference.cache
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Release\_12_Lesson_10_Image_Processing.Form1.resources
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Release\_12_Lesson_10_Image_Processing.Properties.Resources.resources
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Release\GenerateResource.read.1.tlog
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Release\GenerateResource.write.1.tlog
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Release\12 Lesson 10 Image Processing.exe
+J:\ICS\12\12 Lesson 10 Image Processing\12 Lesson 10 Image Processing\obj\x86\Release\12 Lesson 10 Image Processing.pdb
